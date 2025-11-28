@@ -54,7 +54,3 @@ Implementação em Java de uma Tabela Hash por **encadeamento separado** com med
 ## Execução
 
 * Execute a classe `Main` (ex.: rodando `Main.java`). O programa gerará `resultado.csv` no diretório de execução e imprimirá saída no console.
-
----
-
-*README gerado apenas com informações presentes no código fornecido.*
